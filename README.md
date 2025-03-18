@@ -9,14 +9,21 @@ This journey involved overcoming various technical challenges, optimizing traini
 
 ## 📌 Results
 ### 🔹 MagicPoint’s Output
-Here’s a visualization of MagicPoint’s detections on several images:
+Here’s a visualization of MagicPoint’s detections on several synthetic images:
 
 ![MagicPoint Output](screenshots/inference.png)
 
 ### 🔹 Training Performance
-Below are the mAP and Loss curves from training:
+Below are the mean average precision, mean localization error, and validation loss curves from training:
 
-*(Insert training curves here)*
+Mean Average Precision
+![mAP](screenshots/mAP.png)
+
+Mean Localization Error
+![mLE](screenshots/mLE.png)
+
+Validation Loss
+![val_loss](screenshots/val_loss.png)
 
 ---
 
