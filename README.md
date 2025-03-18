@@ -11,7 +11,7 @@ This journey involved overcoming various technical challenges, optimizing traini
 ### 🔹 MagicPoint’s Output
 Here’s a visualization of MagicPoint’s detections on several images:
 
-*(Insert figure showing MagicPoint’s output here)*
+![MagicPoint Output](screenshots/inference.png)
 
 ### 🔹 Training Performance
 Below are the mAP and Loss curves from training:
