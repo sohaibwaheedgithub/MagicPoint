@@ -17,13 +17,13 @@ Here’s a visualization of MagicPoint’s detections on several synthetic image
 Below are the mean average precision, mean localization error, and validation loss curves from training:
 
 Mean Average Precision
-![mAP](screenshots/mAP.png)
+![mAP](screenshots/mAP.PNG)
 
 Mean Localization Error
-![mLE](screenshots/mLE.png)
+![mLE](screenshots/mLE.PNG)
 
 Validation Loss
-![val_loss](screenshots/val_loss.png)
+![val_loss](screenshots/val_loss.PNG)
 
 ---
 
